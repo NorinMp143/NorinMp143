@@ -1,8 +1,6 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<div width="75%" align="center">
-  <p align="center">My name is Madan Lal and I'm a full stack developer. I'm from India, living in Rajasthan and currently pursuing my computer science & engineering degree.</p>
-</div>
+My name is Madan Lal and I'm a full stack developer. I'm from India, living in Rajasthan and currently pursuing my computer science & engineering degree.
  
 ## 🔧 Technologies & Tools
 
