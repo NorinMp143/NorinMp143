@@ -1,4 +1,4 @@
-# Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi, there! <img src="https://raw.githubusercontent.com/NorinMp143/NorinMp143/master/wave.gif" width="30px">
 
 My name is Madan Lal and I'm a full stack developer. I'm from India, living in Rajasthan and currently pursuing my computer science & engineering degree.
  
@@ -47,7 +47,7 @@ My name is Madan Lal and I'm a full stack developer. I'm from India, living in R
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[3.2]: https://raw.githubusercontent.com/NorinMp143/NorinMp143/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 
 <!-- links to your social media accounts -->
