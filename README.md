@@ -33,8 +33,13 @@ My name is Madan Lal and I'm a full stack developer. I'm from India, living in R
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NorinMp143&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a> 
 
-## Find Me On Social Network 
-[![Twitter][1.2]][1]    [![LinkedIn][3.2]][3].
+## Connect To Me 
+[![Linkedin Badge](https://img.shields.io/badge/-@geniakartik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/genial-kartik/)][3] [![Twitter Badge](https://img.shields.io/badge/-@genialkartik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/genialkartik)][1]
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/NorinMp143/count.svg" />
+</p>
 
 <!-- links to social media icons -->
 
