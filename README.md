@@ -40,11 +40,6 @@ I'm from India, living in Rajasthan and currently pursuing my computer science &
 ## Connect To Me 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=Linkedin&logoColor=white)][3] [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)][1]
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/NorinMp143/count.svg" />
-</p>
-
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
