@@ -1,7 +1,7 @@
 # Hi, there! <img src="https://raw.githubusercontent.com/NorinMp143/NorinMp143/master/wave.gif" width="30px">
 
 ## I'm Madan Lal, A Full Stack Developer
-I'm from India, living in Rajasthan and currently pursuing my computer science & engineering degree.
+I'm from India, living in Rajasthan and currently pursuing my computer science & engineering degree. Presently, I am looking for an internship to start my journey.
  
 ## 🔧 Technologies & Tools
 
