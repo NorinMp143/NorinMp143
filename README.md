@@ -1,9 +1,9 @@
-# Hi, there! <img src="https://raw.githubusercontent.com/NorinMp143/NorinMp143/master/wave.gif" width="30px">
+# Hi, I'm Madan! <img src="https://raw.githubusercontent.com/NorinMp143/NorinMp143/master/wave.gif" width="30px">
 
-## I'm Madan Lal, A Full Stack Developer
+## A Full Stack Developer
 I'm from India, living in Rajasthan and currently pursuing my computer science & engineering degree. Presently, I am looking for an internship to start my journey.
  
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=2bbc9a&labelColor=fafafa)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&color=2bbc9a&labelColor=fafafa&logoColor=0081d5)
@@ -27,18 +27,8 @@ I'm from India, living in Rajasthan and currently pursuing my computer science &
 ![](https://img.shields.io/badge/Expo-Tool-informational?style=for-the-badge&logo=expo&color=2bbc9a&labelColor=fafafa&logoColor=000020)
 ![](https://img.shields.io/badge/Code-React%20Native-informational?style=for-the-badge&logo=react&color=2bbc9a&labelColor=fafafa&logoColor=00b0ff)
 
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/NorinMp143/NorinMp143">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorinMp143&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/NorinMp143/NorinMp143">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NorinMp143&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="NorinMp143's GitHub Stats" />
-</a> 
-
 ## Connect To Me 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-informational?style=for-the-badge&logo=Linkedin&logoColor=white)][3] [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)][1]
+[![Linkedin Badge](https://img.shields.io/badge/-informational?style=for-the-badge&logo=Linkedin&logoColor=white)][3] [![Twitter Badge](https://img.shields.io/badge/-informational?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)][1]
 
 <!-- links to social media icons -->
 
