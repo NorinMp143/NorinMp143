@@ -2,6 +2,7 @@
 
 ## A Full Stack Developer
 I'm from India, living in Rajasthan and currently pursuing my computer science & engineering degree. Presently, I am looking for an internship to start my journey.
+- or to get in touch, feel free to message me on [![][1.2] Twitter][1] , [![][3.2] Linkedin][3]
  
 ## Technologies & Tools
 
@@ -26,9 +27,6 @@ I'm from India, living in Rajasthan and currently pursuing my computer science &
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=for-the-badge&logo=heroku&color=2bbc9a&labelColor=fafafa&logoColor=472e8d)
 ![](https://img.shields.io/badge/Expo-Tool-informational?style=for-the-badge&logo=expo&color=2bbc9a&labelColor=fafafa&logoColor=000020)
 ![](https://img.shields.io/badge/Code-React%20Native-informational?style=for-the-badge&logo=react&color=2bbc9a&labelColor=fafafa&logoColor=00b0ff)
-
-## Connect To Me 
-[![Linkedin Badge](https://img.shields.io/badge/-informational?style=for-the-badge&logo=Linkedin&logoColor=white)][3] [![Twitter Badge](https://img.shields.io/badge/-informational?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white)][1]
 
 <!-- links to social media icons -->
 
