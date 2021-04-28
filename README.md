@@ -44,6 +44,6 @@ I'm from India, living in Rajasthan and currently pursuing my computer science &
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/MadanPa74002488
+[1]: https://twitter.com/_MadanLal
 [2]: https://github.com/NorinMp143
 [3]: https://www.linkedin.com/in/madan-lal/
